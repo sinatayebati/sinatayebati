@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center">A PhD student, passionate deep learning researcher, and freelance web developer</h3>
+<h3 align="center"> PhD student, passionate deep learning researcher, and freelance web developer</h3>
 
 - 🔭 I’m currently working on **Large pretrained vision models**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stayeb3@uic.edu**
 
-- ⚡ Fun fact! **I'm a nerd Lego collector**
+- ⚡ Fun fact **I'm a nerd Lego collector**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
