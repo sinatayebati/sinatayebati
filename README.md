@@ -5,9 +5,9 @@
 
 - 🤝 I’m looking to collaborate on **research projects in the area of CV and LLMs**
 
-- 📫 How to reach me **stayebat3@uic.edu**
+- 📫 How to reach me **stayeb3@uic.edu**
 
-- ⚡ Fun fact **I'm a nerd Lego collector**
+- ⚡ Fun fact! **I'm a nerd Lego collector**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
