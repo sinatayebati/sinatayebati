@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center"> PhD student, passionate deep learning researcher, and freelance web developer</h3>
+<h3 align="center"> Data Science R&D Intern, PhD student, passionate deep learning researcher, and freelance web developer</h3>
 
-- 🔭 I’m currently working on **Large pretrained vision models**
+- 🔭 I’m currently working on **Large pretrained vision and language models**
 
 - 🤝 I’m looking to collaborate on **research projects in the area of CV and LLMs**
 
