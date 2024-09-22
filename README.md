@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinatayebati&show_icons=true&locale=en&layout=compact" alt="sinatayebati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinatayebati&show_icons=true&locale=en" alt="sinatayebati" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinatayebati&" alt="sinatayebati" /></p>
