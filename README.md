@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center">A PhD student, passionate deep learning researcher, and freelance web developer</h3>
+<h3 align="center">I'm a PhD student, passionate deep learning researcher, and freelance web developer</h3>
 
 - 🔭 I’m currently working on **Large pretrained vision models**
 
