@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
 <h3 align="center">I'm a PhD student, passionate deep learning researcher, and freelance web developer</h3>
 
-- 🔭 I’m currently working on **Large pretrained vision models**
+- 🔭 I’m currently working on ** Generative AI and Large Language Models**
 
-- 🤝 I’m looking to collaborate on **research projects in the area of CV and LLMs**
+- 🤝 I’m looking to collaborate on **research projects in the area of Generative AI and Uncertainty**
 
-- 📫 How to reach me **stayebat3@uic.edu**
+- 📫 How to reach me **stayeb3@uic.edu**
 
 - ⚡ Fun fact **I'm a nerd Lego collector**
 
