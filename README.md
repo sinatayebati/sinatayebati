@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center">I'm a PhD student, passionate deep learning researcher, and freelance web developer</h3>
+<h3 align="center">I'm a PhD student, passionate Generative AI researcher, and freelance web developer</h3>
 
-- 🔭 I’m currently working on ** Generative AI and Large Language Models**
-
-- 🤝 I’m looking to collaborate on **research projects in the area of Generative AI and Uncertainty**
-
+- 🔭 I’m currently working on Uncertainty in Generative AI and Large Language Models
 - 📫 How to reach me **stayeb3@uic.edu**
 
 <h3 align="left">Languages and Tools:</h3>
