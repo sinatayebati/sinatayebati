@@ -1,4 +1,2 @@
-<h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center">I'm the Founder of Chirpz AI & a passionate Generative AI researcher</h3>
-
-- 🔭 I’m currently building PandaProbe & doing research on unncertainty in Generative AI and Large Language Models
+<h1 align="center">hi, i'm Sina & i'm building PandaProbe</h1>
+<h3 align="center">the open-source stack for self-repairing agents</h3>
